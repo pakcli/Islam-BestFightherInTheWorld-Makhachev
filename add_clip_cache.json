@@ -1,0 +1,22 @@
+{
+    "LastParsedClip":  {
+                           "StartAt":  "45:17",
+                           "DateInputted":  "2026-08-21",
+                           "Tipe":  "yt-biasa",
+                           "QuoteText":  "\u003e\u003e this is how my marriage works. This is how my marriage works. Is \u003e\u003e fighter in the world, bro. You have to ask. \u003e\u003e...",
+                           "StartSeconds":  2717,
+                           "YtUrl":  "https://trycreate.co/MIGHTY?t=2717s",
+                           "Channel":  "Daniel Cormier",
+                           "Title":  "ISLAM MAKHACHEV on TOPURIA LOSS, IAN GARRY, CHANKO! | EXCLUSIVE INTERVIEW!",
+                           "Duration":  "45:27"
+                       },
+    "SelectedCsvMode":  1,
+    "Timestamp":  "2026-08-21T19:32:40.8239997+07:00",
+    "SelectedSourceType":  "Directory",
+    "Script":  "add_clip.ps1",
+    "ProcessedCount":  11,
+    "SourcePathOrText":  "J:\\My Drive\\vault\\training\\YT Captures",
+    "TargetCsvs":  [
+                       "d:\\0pro\\Islam BestFightherInTheWorld Makhachev\\data\\videos_data.csv"
+                   ]
+}
